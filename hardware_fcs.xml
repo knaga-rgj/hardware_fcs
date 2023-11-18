@@ -1,0 +1,9 @@
+<library path="hardware_fcs">
+  <class name="hardware_fcs/HardwareFCS"
+         type="hardware_fcs::HardwareFCS"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Hardware for Futaba Command Servo chains.
+    </description>
+  </class>
+</library>
